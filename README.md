@@ -13,4 +13,4 @@ Hobbies
 - [Facebook](https://www.facebook.com/KielSABulaong)
 
   Listen to my playlist!
-  https://open.spotify.com/playlist/6pqBjab181T8BKbH9R21EO?si=e10d53e3bda640d7
+ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6pqBjab181T8BKbH9R21EO?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
